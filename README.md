@@ -1,9 +1,9 @@
-# music
-
+# Vue2.0作的音乐播放小项止
 > A Vue.js project
 
-## Build Setup
+## 企鹅音乐接口
 
+几个月前看过两遍vue2.0，后再没看，看到部分同学在玩vue，自己琢磨着做了此例子。其中很多东西是自己琢磨出来的。花时一星期。
 ``` bash
 # install dependencies
 npm install
